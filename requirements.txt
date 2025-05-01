@@ -1,0 +1,8 @@
+
+tweepy
+pandas
+python-dotenv
+jupyter
+matplotlib
+transformers
+torch
